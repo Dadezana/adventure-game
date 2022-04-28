@@ -1,2 +1,2 @@
 # adventure-game
-A text based adventure game. Can yuo reach the end?
+A text based adventure game. Can you reach the end?
